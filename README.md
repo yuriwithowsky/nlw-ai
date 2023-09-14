@@ -4,6 +4,10 @@
 
 Projeto criado na imersão NLW AI da Rocketseat
 
+## Objetivo
+
+Use a plataforma para criar em títulos e descrições para o YouTube usando seu próprio vídeo e o GPT 3.5 da OpenAI de forma automatica.
+
 ## Como executar
 
 Em seu terminal, execute os comando abaixo para iniciar a API
