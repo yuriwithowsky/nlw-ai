@@ -6,9 +6,21 @@ Projeto criado na imersão NLW AI da Rocketseat
 
 ## Como executar
 
-Em seu terminal, execute os comando abaixo
+Em seu terminal, execute os comando abaixo para iniciar a API
 
 ```bash
+cd api
+
+pnpm install
+
+pnpm run dev
+```
+
+Em seguida, execute os comando abaixo para iniciar a plataforma Web
+
+```bash
+cd web
+
 pnpm install
 
 pnpm run dev
@@ -22,3 +34,5 @@ pnpm run dev
 - TailwindCSS
 - Radix UI
 - Shadcn/ui
+- Fastify
+- ffmpeg
